@@ -10,5 +10,7 @@ A repository of collection of Question-Answer for Driving License Written Exam a
 #### [সড়ক ব্যবহার বিধির অপরাধ, আইন ও ধারা এবং সর্বোচ্চ শাস্তি](Traffic_Rule_Break_Punishment.md)
 #### [Stopping Distance](Stopping_Distance.md)
 
-#### গাড়ীতে গতি প্রয়োগের শর্তসমূহ(Conditions_On_Speeding.md)
-#### মৌলিক ট্রাফিক আইন(Major_Traffic_Rules.md)
+#### [অটো-মেকানিজম](Auto_Mechanism.md)
+
+#### [গাড়ীতে গতি প্রয়োগের শর্তসমূহ](Conditions_On_Speeding.md)
+#### [মৌলিক ট্রাফিক আইন](Major_Traffic_Rules.md)
