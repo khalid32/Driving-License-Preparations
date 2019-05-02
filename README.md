@@ -14,3 +14,4 @@ A repository of collection of Question-Answer for Driving License Written Exam a
 
 #### [গাড়ীতে গতি প্রয়োগের শর্তসমূহ](Conditions_On_Speeding.md)
 #### [মৌলিক ট্রাফিক আইন](Major_Traffic_Rules.md)
+#### [সিএনজি](CNG.md)
